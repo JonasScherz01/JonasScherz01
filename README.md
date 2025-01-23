@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JonasScherz01)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **JonasScherz01/JonasScherz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
