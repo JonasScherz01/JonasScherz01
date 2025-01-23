@@ -2,6 +2,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JonasScherz01&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasScherz01&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">My current Stack</h2>
+
+<div>
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="JavaScript Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/primereact-1.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="CSS Logo" width="50" height="50"/>
+</div>
+
+
 <!--
 **JonasScherz01/JonasScherz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
