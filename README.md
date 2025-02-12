@@ -16,6 +16,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="CSS Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="CSS Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="CSS Logo" width="50" height="50"/>
 </div>
 
 
