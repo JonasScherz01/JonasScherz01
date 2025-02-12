@@ -6,7 +6,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasScherz01&show_icons=true&theme=dark)  
 
 
-<h2 align="left">My current Stack</h2>
+<h2 align="left">Languages & Tools</h2>
 
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="JavaScript Logo" width="50" height="50"/>
