@@ -2,8 +2,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JonasScherz01&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasScherz01&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="left">My current Stack</h2>
 
 <div>
