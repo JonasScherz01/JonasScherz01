@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+  <!--
   [![trophy](https://github-profile-trophy.vercel.app/?username=JonasScherz01&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <!--
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasScherz01&show_icons=true&theme=dark)  
   -->
 
