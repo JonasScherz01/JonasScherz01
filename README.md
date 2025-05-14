@@ -5,14 +5,16 @@
 <h2 align="left">Languages & Tools</h2>
 
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="JavaScript Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/primereact-1.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/primereact-1.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50" height="50"/>
 </div>
 
 
