@@ -15,6 +15,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50"/>
 </div>
 
 
