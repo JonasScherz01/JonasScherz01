@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-trophies.vercel.app/?username=JonasScherz01)
+[![trophy](https://github-trophies.vercel.app/?username=JonasScherz01)](https://github.com/lucthienphong1120/github-trophies)
 
 <h2 align="left">Languages & Tools</h2>
 
