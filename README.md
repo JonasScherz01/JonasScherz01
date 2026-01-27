@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JonasScherz01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=JonasScherz01)
 
 <h2 align="left">Languages & Tools</h2>
 
