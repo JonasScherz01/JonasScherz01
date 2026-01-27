@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[[![trophy](https://g[](url)ithub-profile-trophy.vercel.app/?username=JonasScherz01&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)]([url](url))
+[![trophy](https://github-profile-trophy.vercel.app/?username=JonasScherz01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">Languages & Tools</h2>
 
