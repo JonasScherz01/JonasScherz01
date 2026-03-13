@@ -7,6 +7,7 @@
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/primereact-1.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="50" height="50"/>
