@@ -5,7 +5,7 @@
 <h2 align="left">Languages & Tools</h2>
 
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" title="C#"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/>
