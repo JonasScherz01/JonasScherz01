@@ -1,5 +1,5 @@
 
-<div align="center>
+<div align="center">
   ## Hi there 👋
   
   [![trophy](https://github-trophies.vercel.app/?username=JonasScherz01&theme=onedark&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
