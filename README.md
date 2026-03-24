@@ -2,7 +2,7 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=JonasScherz01&theme=onedark&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
 
-<h2 align="left">Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" title="C#"/>
