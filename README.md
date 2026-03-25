@@ -1,6 +1,6 @@
 
 <div align="center">
-  ## Hi there 👋
+  <h2>Hi there 👋</h2>
   
   [![trophy](https://github-trophies.vercel.app/?username=JonasScherz01&theme=onedark&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
   
