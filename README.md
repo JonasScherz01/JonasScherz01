@@ -20,6 +20,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" title="Tailwind" />
     <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" width="50" title="PHP" />
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" title="Laravel" />
+    <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1" width="50" title="Laravel" />
   </div>
 
 
