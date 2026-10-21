@@ -1,42 +1,30 @@
 
-  <h2>Hi there 👋</h2>
-  
-  [![trophy](https://github-trophies.vercel.app/?username=JonasScherz01&theme=onedark&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
-  
-  <h2>Languages & Tools</h2>
-  
-  <div>
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" title="C#" />
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" title="Typescript" />
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" title="Javascript" />
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="70" title="React" />
-    <img src="https://cdn.worldvectorlogo.com/logos/primereact-1.svg" width="50" title="Primereact" />
-    <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="50" title="GraphQL" />
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" width="50" title="NodeJS" />
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" title="NextJS" />
-    <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="50" title="Kubernetes" />
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" title="VS Code" />
-    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50" title="GitHub" />
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" title="Tailwind" />
-    <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" width="50" title="PHP" />
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" title="Laravel" />
-    <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" width="50" title="SendGrid" />
-    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" title="Python" />
-  </div>
+<h1 align="center">Hey, I'm Jonas 👋</h1>
 
+<p align="center">
+  <strong>Software Developer · TypeScript · React · Next.js</strong>
+</p>
 
+<p align="center">
+  Building modern web applications and working across the stack.
+</p>
 
-<!--
-**JonasScherz01/JonasScherz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,tailwind,php,laravel,python,cs,kubernetes,vscode,github&theme=dark" alt="Tech Stack"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasScherz01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues,contribs" alt="GitHub Stats"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JonasScherz01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=JonasScherz01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <i>Always learning, always building. 🚀</i>
+</p>
